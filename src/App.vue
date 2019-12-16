@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Main :progress="50" label="msg" rate="slow"></Main>
+    <Main type="square" :progress="50"></Main>
   </div>
 </template>
 
